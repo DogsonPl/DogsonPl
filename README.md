@@ -1,5 +1,4 @@
-### Python 🐍
-## "I'm gonna write some code, sharing that software makes no profit. But I'm joining only using Linux. That's what we call freedom."
+### YEAH
 
 <!--
 **DogsonPl/DogsonPl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
